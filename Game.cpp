@@ -1,5 +1,3 @@
-// Incluye el encabezado "Game.h" donde se define la estructura Game.
-// Este archivo contiene la implementación (el "cómo") de las funciones de Game.
 #include "Game.h"
 
 // Incluye el encabezado "Utils.h" para poder usar las funciones auxiliares
