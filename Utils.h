@@ -1,4 +1,4 @@
-﻿// '#pragma once' indica al compilador que este archivo solo debe incluirse una vez durante la compilación. Evita errores por duplicidad de definiciones.
+﻿//indica al compilador que este archivo solo debe incluirse una vez durante la compilación. Evita errores por duplicidad de definiciones.
 #pragma once
 /*'readMove' solicita al jugador actual (X o O) que ingrese un número de posición (1–9). 
 Si el usuario escribe un valor no válido (letras o símbolos), la función limpiará el
